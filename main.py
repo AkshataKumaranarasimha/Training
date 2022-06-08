@@ -1,4 +1,2 @@
-from datatypes import sample
-
-sample.print_hi("hola")
+print("hola. this is the python3 playground project just for learning")
 
